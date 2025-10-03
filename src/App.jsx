@@ -6,7 +6,7 @@ function App() {
     <div className="app-container">
       <header className="app-header">
         <h1>Course Registration System</h1>
-        <p>Join thousands of students in our premium online courses</p>
+        <p>Join thousands of students in our various online courses at Me Learning Institute.</p>
       </header>
 
       <main className="main-content">
